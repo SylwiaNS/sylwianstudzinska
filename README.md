@@ -87,4 +87,15 @@ Nazywam się Sylwia Nierząd-Studzińska. Z wykształcenia jestem mgr inż. Inż
 </li>
  </ul> 
  <h3>Przypadki testowe</h3>
+ <ul>
+  <li>Aplikacja Kanbanboard
+    <ul>
+    <li> specyfikacja: https://docs.google.com/document/d/14Cg4lwLw56Q8r6ezRVgz3_HycSxnwbXA/edit?usp=sharing&ouid=105121711153245351171&rtpof=true&sd=true <ul>
+    
+ </ul></li>
+  <li>przypadki testowe: https://drive.google.com/drive/folders/1JW9Qh8YqYu062VCa8LEa4LyZX4M8p_B5?usp=sharing</li>
+ </ul> 
+</li>
+ </ul> 
+ 
  
