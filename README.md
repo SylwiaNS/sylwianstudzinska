@@ -37,6 +37,7 @@ Nazywam się Sylwia Nierząd-Studzińska. Z wykształcenia jestem mgr inż. Inż
  <h2>Techniczne książki</h2>
  <ul>
     <li>A. Roman, L. Stapp "Certyfikowany Tester ISTQB" </li>
+    <li>K. Jadczyk "Pasja Testowania" </li>
  </ul>
  <h2>Grupy na Facebook</h2>
 <ul>
